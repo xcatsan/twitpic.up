@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'twitpic.up' target in the 'twitpic.up' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
